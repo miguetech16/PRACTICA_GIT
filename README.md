@@ -1,2 +1,2 @@
 # PRACTICA_GIT
-Práctica de Git 
+This is a README file 
